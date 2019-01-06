@@ -1,0 +1,849 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "relation/1656800",
+        "amenity": "hospital",
+        "building": "yes",
+        "type": "multipolygon",
+        "@geometry": "center",
+        "name": "Κέντρο Υγείας Πύλου",
+        "phone": "(+30)2723360000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.6942814,
+          36.9098567
+        ]
+      },
+      "id": "relation/1656800"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "way/32304991",
+        "amenity": "hospital",
+        "name": "Πανεπιστημιακό Νοσοκομείο Ρίου",
+        "name:el": "ΠΑΝΑΓΙΑ Η ΒΟΗΘΕΙΑ",
+        "name:en": "General University Hospital of Patras",
+        "@geometry": "center",
+        "phone": "(+30)2613603000",
+        "fax": "(+30)2610994532 / (+30)2610994537"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.7948729,
+          38.2949829
+        ]
+      },
+      "id": "way/32304991"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "way/32305334",
+        "amenity": "hospital",
+        "building": "yes",
+        "name": "Νοσοκομείο  Άγιος Ανδρέας",
+        "@geometry": "center",
+        "phone": "(+30)2610227088",
+        "fax": "(+30)2610227853 / (+30)2610227893"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.7479894,
+          38.2337359
+        ]
+      },
+      "id": "way/32305334"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "way/32378857",
+        "amenity": "hospital",
+        "name": "Νοσοκομείο  409 Γενικό Στρατιωτικό ",
+        "@geometry": "center",
+        "phone": "(+30)2613601000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.7562872,
+          38.237533
+        ]
+      },
+      "id": "way/32378857"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "way/32734987",
+        "amenity": "hospital",
+        "name": " Νοσοκομείο Καραμανδάνειο παίδων",
+        "@geometry": "center",
+        "phone": "(+30)2610622222",
+        "fax": "(+30)2610220511"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.7608357,
+          38.2373207
+        ]
+      },
+      "id": "way/32734987"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "way/32735004",
+        "amenity": "hospital",
+        "name": "Νοσοκομείο Νοσημάτων Άγιος  Λουκάς",
+        "@geometry": "center",
+        "phone": "(+30)2613600300",
+        "fax": "(+30)2610272828 / (+30)2610622576"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.7670404,
+          38.2347885
+        ]
+      },
+      "id": "way/32735004"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "way/108921971",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "name": "Γενικό Νοσοκομείο Αργοστολίου",
+        "name:ru": "Souidias 17, Agrostoli 281 00 +30 2671 038080",
+        "@geometry": "center",
+        "phone": "(+30)2671038000",
+        "fax": "(+30)2671038055"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.4921464,
+          38.1697763
+        ]
+      },
+      "id": "way/108921971"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "way/119788131",
+        "amenity": "hospital",
+        "date": 20110710,
+        "int_name": "General Hospital of Pyrgos \"Manolopoulio\"",
+        "name": "Γενικό Νοσοκομείο Πύργου \"Μανωλοπούλειο\"",
+        "name:de": "Allgemeines Krankenhaus Pyrgos \"Manolopoulio\"",
+        "name:el": "Γενικό Νοσοκομείο Πύργου \"Μανωλοπούλειο\"",
+        "name:en": "General Hospital of Pyrgos \"Manolopoulio\"",
+        "name:fr": "Hôpital General de Pyrgos \"Manolopoulio\"",
+        "source": "Remap by Bing Zoom Level 19",
+        "@geometry": "center",
+        "phone": "(+30)2621361300",
+        "fax": "(+30)2621082402"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.4236309,
+          37.6833013
+        ]
+      },
+      "id": "way/119788131"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "way/121785298",
+        "amenity": "hospital",
+        "date": 20110721,
+        "emergency": "yes",
+        "int_name": "Kalamata General Prefectural Hospital",
+        "name": "Γενικό Νοσοκομείο Καλαμάτας",
+        "@geometry": "center",
+        "phone": "(+30)2721363000",
+        "fax": "(+30)2721046104"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.0612078,
+          37.0681072
+        ]
+      },
+      "id": "way/121785298"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "way/131424950",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "name": "Κέντρο Υγείας Μεγάρων",
+        "@geometry": "center",
+        "phone": "(+30)2296022222",
+        "fax": "(+30)2296022225"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3512936,
+          37.9984573
+        ]
+      },
+      "id": "way/131424950"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "way/134956264",
+        "amenity": "hospital",
+        "building": "yes",
+        "name": "Γενικό Νοσοκομείο Σπάρτης",
+        "name:en": "General Hospital of Sparti",
+        "@geometry": "center",
+        "phone": "(+30)2731028671",
+        "fax": "(+30)2731029068"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.4201921,
+          37.0873686
+        ]
+      },
+      "id": "way/134956264"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "way/168155369",
+        "amenity": "hospital",
+        "name": "Ολύμπιο Θεραπευτήριο",
+        "name:en": "Olimpio Hospital",
+        "@geometry": "center",
+        "phone": "(+30)2610464000 / (+30) 2611100600",
+        "fax": "(+30)2610464115"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.7595413,
+          38.263525
+        ]
+      },
+      "id": "way/168155369"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "way/255490483",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "name": "Γενικό Νοσοκομείο Κορίνθου",
+        "phone": "(+30)2741361400",
+        "website": "http://www.hospkorinthos.gr/",
+        "@geometry": "center",
+        "fax": "(+30)2741020529 / (+30)2741361300"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.9493825,
+          37.9401588
+        ]
+      },
+      "id": "way/255490483"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "way/274565872",
+        "amenity": "hospital",
+        "contact:phone": "+30 2695360500",
+        "contact:website": "www.zante-hospital.gr",
+        "emergency": "yes",
+        "name": "Γενικό Νοσοκομείο Ζακύνθου \"Άγιος Διονύσιος\"",
+        "@geometry": "center",
+        "phone": "(+30)2695360500",
+        "fax": "(+30)2695042520"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.8758425,
+          37.7843903
+        ]
+      },
+      "id": "way/274565872"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "way/312662535",
+        "addr:postcode": 23052,
+        "amenity": "hospital",
+        "emergency": "yes",
+        "name": "Νοσοκομείο  Μολάων",
+        "name:en": "General Hospital of Laconia - Hospital unit of Molaoi",
+        "operator": "Γενικό Νοσοκομείο Λακωνίας",
+        "phone": "(+30)2732024000",
+        "source": "http://www.hosplak.gr/?q=node/9",
+        "website": "http://www.hosplak.gr/",
+        "@geometry": "center",
+        "fax": "(+30)2732022222 / (+30)2732360153"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.8556377,
+          36.8009393
+        ]
+      },
+      "id": "way/312662535"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "way/333112701",
+        "amenity": "hospital",
+        "name": "Νοσοκομείο  Παναρκαδικό  Τρίπολης",
+        "@geometry": "center",
+        "phone": "(+30)2713601770",
+        "fax": "(+30)2710234658 / (+30)2710238175"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.362969,
+          37.5120938
+        ]
+      },
+      "id": "way/333112701"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "way/433816870",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "name": "Γενικό Νοσοκομείο Άργους",
+        "@geometry": "center",
+        "phone": "(+30)2751024456",
+        "fax": "(+30)2751024644 / (+30) 2751360170"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.7281258,
+          37.6434145
+        ]
+      },
+      "id": "way/433816870"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "way/470069461",
+        "amenity": "hospital",
+        "name": "Κέντρο Υγείας  Κιάτου",
+        "name:en": "Health Center",
+        "@geometry": "center",
+        "phone": "(+30)2742360000",
+        "fax": "(+30)2742024045"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.7441451,
+          38.0146611
+        ]
+      },
+      "id": "way/470069461"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/470433317",
+        "amenity": "hospital",
+        "name": "Κέντρο Υγείας Γυθείου",
+        "phone": "(+30)2733360100",
+        "fax": "(+30)2733029010"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.5695948,
+          36.755509
+        ]
+      },
+      "id": "node/470433317"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/483415901",
+        "addr:city": "Laganas",
+        "addr:country": "GR",
+        "addr:street": "Main Road",
+        "amenity": "hospital",
+        "name": "Κέντρο  Υγείας  Λαγανά",
+        "phone": "(+30)2695051210"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.8636188,
+          37.7275143
+        ]
+      },
+      "id": "node/483415901"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "way/512969512",
+        "amenity": "hospital",
+        "barrier": "fence",
+        "name": "ΕΛΠΙΔΑ \"Ογκολογικό Ίδρυμα\" Πατρών",
+        "@geometry": "center",
+        "phone": "(+30)2610911431",
+        "fax": "(+30)2610911438"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.7799672,
+          38.2878852
+        ]
+      },
+      "id": "way/512969512"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "way/522111008",
+        "amenity": "hospital",
+        "building": "yes",
+        "name": "Κέντρο Υγείας Άστρους",
+        "@geometry": "center",
+        "phone": "(+30)2755360300",
+        "fax": "(+30)2755360362"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.7149542,
+          37.4071312
+        ]
+      },
+      "id": "way/522111008"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/830476992",
+        "addr:city": "Λάμπεια",
+        "addr:postcode": 27063,
+        "amenity": "hospital",
+        "emergency": "yes",
+        "name": "Κέντρο Υγείας Λάμπειας  Ηλείας",
+        "phone": "(+30)2624081208"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.8072103,
+          37.8610395
+        ]
+      },
+      "id": "node/830476992"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/926449801",
+        "amenity": "hospital",
+        "name": "Κέντρο Υγείας Κορώνης",
+        "phone": "(+30)2725022208"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.9591481,
+          36.796921
+        ]
+      },
+      "id": "node/926449801"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/1636527130",
+        "addr:postcode": 22100,
+        "amenity": "hospital",
+        "name": "Κέντρο Υγείας Μάκρης (Ψυχιατρικό  Νοσοκομείο)",
+        "source": "geodata.gov.gr",
+        "phone": "(+30)2710231397",
+        "fax": "(+30)2710223841"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.3345858,
+          37.4866153
+        ]
+      },
+      "id": "node/1636527130"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/1766770795",
+        "amenity": "hospital",
+        "name": "Μαιευτήριο Ηω  Πατρών",
+        "phone": "(+30)2610624316"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.7369659,
+          38.2458639
+        ]
+      },
+      "id": "node/1766770795"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/1831860110",
+        "addr:street": "Τυπαλδου Στυλιανού",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "name": " Νοσοκομείο Μαντζαβινάτειο   Κεφαλονιάς",
+        "name:en": "Μatzavinateio Hospital",
+        "phone": "(+30)2671091194",
+        "fax": "(+30)2671091344 / (+30)2671091975"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.4376013,
+          38.2091712
+        ]
+      },
+      "id": "node/1831860110"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/2287833981",
+        "amenity": "hospital",
+        "name": "Κέντρο Υγείας Λυγουριού",
+        "name:en": "Lygourio Health Center",
+        "phone": "(+30)2753022222",
+        "fax": "(+30)2753022401"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.0530609,
+          37.6018241
+        ]
+      },
+      "id": "node/2287833981"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/2393074850",
+        "amenity": "hospital",
+        "name": "Γενικό Νοσοκομείο Αίγιου",
+        "name:el": "Γενικό Νοσοκομείο Αίγιου",
+        "name:en": "Aigio General Hospital",
+        "phone": "(+30)2691022518",
+        "fax": "(+30)2691062551"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.0728309,
+          38.2422081
+        ]
+      },
+      "id": "node/2393074850"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/2669074196",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "name": "Γενικό Νοσοκομείο Ληξουρίου"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.4380089,
+          38.1999857
+        ]
+      },
+      "id": "node/2669074196"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/2913949272",
+        "amenity": "hospital",
+        "name": "Κέντρο Υγείας Αγίου Νικολάου Μεσσηνίας",
+        "phone": "(+30)2721078225",
+        "fax": "(+30)2721078226"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.2822029,
+          36.8259697
+        ]
+      },
+      "id": "node/2913949272"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/3033585327",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "name": " Νοσοκομείο Ύδρας Παναγία η Φανερωμένη ",
+        "source": "survey",
+        "phone": "(+30)2298053150",
+        "fax": "(+30)2298053053 / (+30)2298053151"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.4653483,
+          37.3488267
+        ]
+      },
+      "id": "node/3033585327"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/3466422734",
+        "amenity": "hospital",
+        "name": "Κέντρο Υγείας Αγίας Ευφημίας",
+        "phone": "(+30)2674061229"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.5974712,
+          38.3029581
+        ]
+      },
+      "id": "node/3466422734"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/4285931304",
+        "addr:city": "Loutraki",
+        "addr:street": "Thesi Katounistra",
+        "amenity": "hospital",
+        "name": "Κέντρο Υγείας Λουτρακίου",
+        "operator": "Mediterranean Center for Rehabilitationm",
+        "phone": "(+30)2744360000",
+        "fax": "(+30)2744026668"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.99947,
+          37.9504384
+        ]
+      },
+      "id": "node/4285931304"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/4308943191",
+        "amenity": "hospital",
+        "name": "Κέντρο Υγείας Κυθήρων"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.9651461,
+          36.2771344
+        ]
+      },
+      "id": "node/4308943191"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/5613364526",
+        "amenity": "hospital",
+        "name:en": "Hospital",
+        "name": "Κέντρο Υγείας Κυπαρισσίας",
+        "phone": "(+30)2761024051",
+        "fax": "(+30)2761022018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.6669841,
+          37.2497614
+        ]
+      },
+      "id": "node/5613364526"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/5840031770",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Νοσοκομείο  Καλαβρύτων",
+        "phone": "(+30)2692360100",
+        "fax": "(+30)2692022861"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.1084585,
+          38.0325776
+        ]
+      },
+      "id": "node/5840031770"
+    }
+  ]
+}

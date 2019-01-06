@@ -1,0 +1,751 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "way/200798493",
+        "amenity": "fire_station",
+        "building": "yes",
+        "source": "Bing",
+        "@geometry": "center",
+        "name": "Πυροσβεστική Υπηρεσία Ολυμπίας"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.6253468,
+          37.6528746
+        ]
+      },
+      "id": "way/200798493"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/233011264",
+        "amenity": "fire_station",
+        "area": "yes",
+        "building": "yes",
+        "name": "Πυροσβεστικη Πυργου",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.4380646,
+          37.6836378
+        ]
+      },
+      "id": "way/233011264"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "way/238108381",
+        "amenity": "fire_station",
+        "building": "yes",
+        "@geometry": "center",
+        "name": "Πυροσβεστική Υπηρεσία  Ναυπλίου"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.8020521,
+          37.5648304
+        ]
+      },
+      "id": "way/238108381"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "way/440269931",
+        "amenity": "fire_station",
+        "name": "Πυροσβεστική Υπηρεσία  Πατρών",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.6392545,
+          38.1108247
+        ]
+      },
+      "id": "way/440269931"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "way/470068248",
+        "amenity": "fire_station",
+        "building": "yes",
+        "@geometry": "center",
+        "name": "Πυροσβεστική  Υπηρεσία  Κιάτου"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.7504501,
+          38.0086049
+        ]
+      },
+      "id": "way/470068248"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/470433215",
+        "amenity": "fire_station",
+        "name": "Πυροσβεστική Υπηρεσία Γυθείου"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.5674147,
+          36.7423939
+        ]
+      },
+      "id": "node/470433215"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "way/551009028",
+        "addr:city": "Πύλος",
+        "addr:postcode": 24001,
+        "amenity": "fire_station",
+        "building": "yes",
+        "name": "Πυροσβεστική Υπηρεσία Πύλου",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.6935178,
+          36.9135221
+        ]
+      },
+      "id": "way/551009028"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/1249669039",
+        "amenity": "fire_station",
+        "name": "Πυροσβεστική Υπηρεσία Αργοστολίου"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.4944257,
+          38.1702702
+        ]
+      },
+      "id": "node/1249669039"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/2260750004",
+        "amenity": "fire_station",
+        "name": "Πυροσβεστική  Υπηρεσία  Τρίπολης"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.4310885,
+          37.5802866
+        ]
+      },
+      "id": "node/2260750004"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/2410383218",
+        "amenity": "fire_station",
+        "name": "Πυροσβεστική Υπηρεσία Πύργου",
+        "name:en": "Pyrgos Fire Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.4383084,
+          37.6837501
+        ]
+      },
+      "id": "node/2410383218"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/2684789561",
+        "amenity": "fire_station",
+        "name": "Πυροσβεστική Υπηρεσία Μαγούλας"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.5314496,
+          38.0747083
+        ]
+      },
+      "id": "node/2684789561"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/2869331848",
+        "amenity": "fire_station",
+        "name": "Πυροσβεστική Υπηρεσία Αίγινας",
+        "name:en": "Fire Echelon Aegina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.4455594,
+          37.745289
+        ]
+      },
+      "id": "node/2869331848"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3184967404",
+        "amenity": "fire_station",
+        "name": "Πυροσβεστική Υπηρεσία Μολάων",
+        "name:en": "Fire station of Molai",
+        "operator": "Πυροσβεστικό Σώμα",
+        "phone": "+302732023888",
+        "source": "http://www.fireservice.gr/pyr/site/home/LC+Secondary+Menu/Telephone+list/Regional+Administration/Peloponnissu/Lakonias/Molaon.csp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.8590517,
+          36.8197144
+        ]
+      },
+      "id": "node/3184967404"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/3283658829",
+        "amenity": "fire_station",
+        "name": "Εθελοντικό Πυροσβεστικό Σώμα Ύδρας",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.4668152,
+          37.3521518
+        ]
+      },
+      "id": "node/3283658829"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/3700820406",
+        "amenity": "fire_station",
+        "name": "Πυροσβεστική  Υπηρεσία  Κορίνθου"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.9221727,
+          37.9380986
+        ]
+      },
+      "id": "node/3700820406"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/4872719632",
+        "amenity": "fire_station",
+        "name": "Πυροσβεστική Υπηρεσία Χαλανδρίτσας"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.7839446,
+          38.1086522
+        ]
+      },
+      "id": "node/4872719632"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "amenity": "fire_station",
+        "name": "Πυροσβεστική  Υπηρεσία  Καλαμάτας"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.10869789123535,
+          37.035130331833976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "amenity": "fire_station",
+        "name": "Πυροσβεστική Υπηρεσία Σπάρτης"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.433910369873047,
+          37.075757861504506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "way/200798493",
+        "amenity": "fire_station",
+        "building": "yes",
+        "source": "Bing",
+        "@geometry": "center",
+        "name": "Πυροσβεστική Υπηρεσία Ολυμπίας",
+        "phone": "(+30)2624022300",
+        "fax": "(+30)2624022300"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.6253468,
+          37.6528746
+        ]
+      },
+      "id": "way/200798493"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "way/233011264",
+        "amenity": "fire_station",
+        "area": "yes",
+        "building": "yes",
+        "name": "Πυροσβεστικη Πυργου",
+        "@geometry": "center",
+        "phone": "(+30)2621040050",
+        "fax": "(+30) 2621040071 / (+30) 2621040072"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.4380646,
+          37.6836378
+        ]
+      },
+      "id": "way/233011264"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "way/238108381",
+        "amenity": "fire_station",
+        "building": "yes",
+        "@geometry": "center",
+        "name": "Πυροσβεστική Υπηρεσία  Ναυπλίου",
+        "phone": "(+30)2752028282",
+        "fax": "(+30)2752027222"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.8020521,
+          37.5648304
+        ]
+      },
+      "id": "way/238108381"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "way/440269931",
+        "amenity": "fire_station",
+        "name": "Πυροσβεστική Υπηρεσία  Πατρών",
+        "@geometry": "center",
+        "phone": "(+30)2613615610",
+        "fax": "(+30)2610438903"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.6392545,
+          38.1108247
+        ]
+      },
+      "id": "way/440269931"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "way/470068248",
+        "amenity": "fire_station",
+        "building": "yes",
+        "@geometry": "center",
+        "name": "Πυροσβεστική  Υπηρεσία  Κιάτου",
+        "phone": "(+30)2742021381",
+        "fax": "(+30)2742020054"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.7504501,
+          38.0086049
+        ]
+      },
+      "id": "way/470068248"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/470433215",
+        "amenity": "fire_station",
+        "name": "Πυροσβεστική Υπηρεσία Γυθείου",
+        "phone": "(+30)2733023173",
+        "fax": "(+30) 2733029109"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.5674147,
+          36.7423939
+        ]
+      },
+      "id": "node/470433215"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "way/551009028",
+        "addr:city": "Πύλος",
+        "addr:postcode": 24001,
+        "amenity": "fire_station",
+        "building": "yes",
+        "name": "Πυροσβεστική Υπηρεσία Πύλου",
+        "@geometry": "center",
+        "phone": "(+30)2723022099",
+        "fax": "(+30)2723022099"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.6935178,
+          36.9135221
+        ]
+      },
+      "id": "way/551009028"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/1249669039",
+        "amenity": "fire_station",
+        "name": "Πυροσβεστική Υπηρεσία Αργοστολίου",
+        "phone": "(+30)2671023312",
+        "fax": "(+30)2671023067"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.4944257,
+          38.1702702
+        ]
+      },
+      "id": "node/1249669039"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/2260750004",
+        "amenity": "fire_station",
+        "name": "Πυροσβεστική  Υπηρεσία  Τρίπολης",
+        "phone": "(+30)2713602510",
+        "fax": "(+30)2710230372"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.4310885,
+          37.5802866
+        ]
+      },
+      "id": "node/2260750004"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/2410383218",
+        "amenity": "fire_station",
+        "name": "Πυροσβεστική Υπηρεσία Πύργου",
+        "name:en": "Pyrgos Fire Station",
+        "phone": "(+30)2621040051",
+        "fax": "(+30)2621040052"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.4383084,
+          37.6837501
+        ]
+      },
+      "id": "node/2410383218"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/2684789561",
+        "amenity": "fire_station",
+        "name": "Πυροσβεστική Υπηρεσία Μαγούλας",
+        "phone": "(+30)2105559199",
+        "fax": "(+30)2105552053"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.5314496,
+          38.0747083
+        ]
+      },
+      "id": "node/2684789561"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/2869331848",
+        "amenity": "fire_station",
+        "name": "Πυροσβεστική Υπηρεσία Αίγινας",
+        "name:en": "Fire Echelon Aegina",
+        "phone": "(+30)2297022171"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.4455594,
+          37.745289
+        ]
+      },
+      "id": "node/2869331848"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/3184967404",
+        "amenity": "fire_station",
+        "name": "Πυροσβεστική Υπηρεσία Μολάων",
+        "name:en": "Fire station of Molai",
+        "operator": "Πυροσβεστικό Σώμα",
+        "phone": "(+30)2732027040",
+        "source": "http://www.fireservice.gr/pyr/site/home/LC+Secondary+Menu/Telephone+list/Regional+Administration/Peloponnissu/Lakonias/Molaon.csp",
+        "fax": "(+30)2732029118"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.8590517,
+          36.8197144
+        ]
+      },
+      "id": "node/3184967404"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/3283658829",
+        "amenity": "fire_station",
+        "name": "Πυροσβεστικό Σώμα Ύδρας",
+        "source": "survey",
+        "phone": "(+30)2298053199"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.4668152,
+          37.3521518
+        ]
+      },
+      "id": "node/3283658829"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/3700820406",
+        "amenity": "fire_station",
+        "name": "Πυροσβεστική  Υπηρεσία  Κορίνθου",
+        "phone": "(+30)2741073050",
+        "fax": "(+30)2741073065"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.9221727,
+          37.9380986
+        ]
+      },
+      "id": "node/3700820406"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/4872719632",
+        "amenity": "fire_station",
+        "name": "Πυροσβεστική Υπηρεσία Χαλανδρίτσας",
+        "phone": "(+30)2694022199"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.7839446,
+          38.1086522
+        ]
+      },
+      "id": "node/4872719632"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "amenity": "fire_station",
+        "name": "Πυροσβεστική  Υπηρεσία  Καλαμάτας",
+        "phone": "(+30)2721062020",
+        "fax": "(+30)2721028274"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.10869789123535,
+          37.035130331833976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "amenity": "fire_station",
+        "name": "Πυροσβεστική Υπηρεσία Σπάρτης",
+        "phone": "(+30)2731022147",
+        "fax": "(+30)2731026222"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.433910369873047,
+          37.075757861504506
+        ]
+      }
+    }
+  ]
+}

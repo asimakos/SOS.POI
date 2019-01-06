@@ -1,0 +1,3475 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/232891095",
+        "amenity": "police",
+        "building": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.4359404,
+          37.6770935
+        ]
+      },
+      "id": "way/232891095"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/258932605",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Αστυνομικό Τμήμα Κορίνθου",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.9325634,
+          37.937577
+        ]
+      },
+      "id": "way/258932605"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "way/470068249",
+        "amenity": "police",
+        "building": "yes",
+        "@geometry": "center",
+        "name": "Αστυνομικό Τμήμα Κιάτου"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.7505271,
+          38.0085571
+        ]
+      },
+      "id": "way/470068249"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/470433241",
+        "amenity": "police",
+        "name": "Αστυνομικό  Τμήμα  Γυθείου"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.5674662,
+          36.7576132
+        ]
+      },
+      "id": "node/470433241"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "way/619807804",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Τμήμα  Τροχαίας  Κορινθίας",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.736545,
+          38.0066981
+        ]
+      },
+      "id": "way/619807804"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "way/632812691",
+        "addr:city": "Ξυλόκαστρο",
+        "addr:housenumber": 22,
+        "addr:postcode": 20400,
+        "addr:street": "Αδαμόπουλου",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Αστυνομικό Τμήμα  Ξυλοκάστρου",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.6326819,
+          38.0768041
+        ]
+      },
+      "id": "way/632812691"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/633369251",
+        "amenity": "police",
+        "name": "Αστυνομική Διεύθυνση Αχαιας"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.7540987,
+          38.2613771
+        ]
+      },
+      "id": "node/633369251"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/926449804",
+        "amenity": "police",
+        "name": "Λιμεναρχείο  Κορώνης"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.9569093,
+          36.7969746
+        ]
+      },
+      "id": "node/926449804"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/926613920",
+        "amenity": "police",
+        "name": "Αστυνομικό Τμήμα Ζακύνθου"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.897416,
+          37.7826977
+        ]
+      },
+      "id": "node/926613920"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/1249669032",
+        "amenity": "police",
+        "name": "Αστυνομικό Τμήμα Αργοστολίου"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.4976336,
+          38.1630159
+        ]
+      },
+      "id": "node/1249669032"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/1372174445",
+        "amenity": "police",
+        "date": 20110724,
+        "name": "Λιμεναρχείο  Καλαμάτας",
+        "source": "bing / wikimapia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.1100038,
+          37.0264501
+        ]
+      },
+      "id": "node/1372174445"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/1372719182",
+        "amenity": "police",
+        "date": 20110724,
+        "name": "Αστυνομική Διεύθυνση Μεσσηνίας",
+        "source": "wikimapia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.0979693,
+          37.0339847
+        ]
+      },
+      "id": "node/1372719182"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/1399391081",
+        "amenity": "police",
+        "name": "Αστυνομικό  Τμήμα  Σπάρτης",
+        "website": "http://www.astynomia.gr/index.php?option=ozo_content&perform=view&id=805&Itemid=96&lang="
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.4354705,
+          37.0753745
+        ]
+      },
+      "id": "node/1399391081"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/1444851215",
+        "amenity": "police",
+        "int_name": "Megara Police Station",
+        "name": "Αστυνομικό Τμήμα Μεγάρων"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3440326,
+          37.9963826
+        ]
+      },
+      "id": "node/1444851215"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/1501850562",
+        "amenity": "police",
+        "name": "Αστυνομικό Τμήμα Κορώνης"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.9594492,
+          36.7963142
+        ]
+      },
+      "id": "node/1501850562"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/1645269628",
+        "amenity": "police",
+        "name": "Αστυνομικό Τμήμα Πατρών"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.7377021,
+          38.2455214
+        ]
+      },
+      "id": "node/1645269628"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/1759658586",
+        "amenity": "police",
+        "name": "Αστυνομικό Τμήμα Πόρου"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.4551227,
+          37.500529
+        ]
+      },
+      "id": "node/1759658586"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/1865430178",
+        "amenity": "police",
+        "name": "Αστυνομικό Τμήμα Βαρθολομιού - Γαστούνης"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.2079893,
+          37.8602157
+        ]
+      },
+      "id": "node/1865430178"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/1971249789",
+        "amenity": "police",
+        "name": "Λιμεναρχείο  Πατρών"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.7344181,
+          38.2426293
+        ]
+      },
+      "id": "node/1971249789"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/1986400251",
+        "amenity": "police",
+        "name": "Αστυνομικό Τμήμα Βάρδα"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.3642622,
+          38.0322315
+        ]
+      },
+      "id": "node/1986400251"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/2171707113",
+        "amenity": "police",
+        "name": "Αστυνομικό Τμήμα  Μεγαλόπολης"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.1384862,
+          37.4031285
+        ]
+      },
+      "id": "node/2171707113"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/2260750002",
+        "amenity": "police",
+        "name": "Αστυνομικό  Τμήμα Τρίπολης"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.4309289,
+          37.5799181
+        ]
+      },
+      "id": "node/2260750002"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/2262636434",
+        "amenity": "police",
+        "name": "Αστυνομικό  Τμήμα  Πύλου"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.6970217,
+          36.9139316
+        ]
+      },
+      "id": "node/2262636434"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/2410383217",
+        "amenity": "police",
+        "name": "Αστυνομικό Τμήμα  Πύργου"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.4359807,
+          37.6769792
+        ]
+      },
+      "id": "node/2410383217"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/2467823688",
+        "amenity": "police",
+        "name": "Αστυνομικό Τμήμα Τολού"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.8578067,
+          37.5187466
+        ]
+      },
+      "id": "node/2467823688"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/2919060141",
+        "amenity": "police",
+        "name": "Αστυνομικό  Τμήμα  Κυπαρισσίας"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.6745131,
+          37.2519133
+        ]
+      },
+      "id": "node/2919060141"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/2984969179",
+        "amenity": "police",
+        "name": "Αστυνομικό Τμήμα Σάμης"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.6469478,
+          38.2502992
+        ]
+      },
+      "id": "node/2984969179"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3184924884",
+        "addr:postcode": "23052",
+        "amenity": "police",
+        "name": "Αστυνομικό τμήμα Μολάων",
+        "name:en": "Molai Police Station",
+        "operator": "Ελληνική Αστυνομία",
+        "phone": "+302732022207",
+        "source": "http://www.astynomia.gr/index.php?option=ozo_content&perform=view&id=813&Itemid=96&lang="
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.8632912,
+          36.8035328
+        ]
+      },
+      "id": "node/3184924884"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3256763559",
+        "amenity": "police",
+        "name": "Αστυνομικό Τμήμα Σπετσών"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.1549561,
+          37.2680507
+        ]
+      },
+      "id": "node/3256763559"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/3262539115",
+        "amenity": "police",
+        "name": "Αστυνομικό Τμήμα Άργους"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.7348502,
+          37.634499
+        ]
+      },
+      "id": "node/3262539115"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/3283682061",
+        "amenity": "police",
+        "name": "Αστυνομικό Τμήμα  Ρόδου",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.4676091,
+          37.3498906
+        ]
+      },
+      "id": "node/3283682061"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/3283688762",
+        "amenity": "police",
+        "name": "Λιμεναρχείο  Ύδρας",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.4668662,
+          37.3520623
+        ]
+      },
+      "id": "node/3283688762"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/4081111786",
+        "amenity": "police",
+        "name": "Αστυνομικό Τμήμα  Ναυπλίου"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.8168985,
+          37.5707029
+        ]
+      },
+      "id": "node/4081111786"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/4362278990",
+        "amenity": "police",
+        "name": "Αστυνομικό Τμήμα Κοπανακίου"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.816816,
+          37.2877528
+        ]
+      },
+      "id": "node/4362278990"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/4656449710",
+        "addr:city": "Λάμπεια",
+        "amenity": "police",
+        "name": "Αστυνομικό Τμήμα Λαμπείας"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.8079281,
+          37.8579562
+        ]
+      },
+      "id": "node/4656449710"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/4872724773",
+        "amenity": "police",
+        "name": "Αστυνομικό Τμήμα Χαλανδρίτσας"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.7822844,
+          38.1088274
+        ]
+      },
+      "id": "node/4872724773"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/4901522685",
+        "amenity": "police",
+        "name": "Αστυνομικό Τμήμα Κατακόλου"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.3186971,
+          37.6445705
+        ]
+      },
+      "id": "node/4901522685"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/4907788077",
+        "amenity": "police",
+        "name": "Αστυνομικό Τμήμα Άστρους"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.7631057,
+          37.4145655
+        ]
+      },
+      "id": "node/4907788077"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5094514480",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Λιμεναρχείο Ισθμίων"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.009022,
+          37.9158143
+        ]
+      },
+      "id": "node/5094514480"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/5199710753",
+        "amenity": "police",
+        "name": "Αστυνομικό Τμήμα Λουτρακίου"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.9794979,
+          37.9641076
+        ]
+      },
+      "id": "node/5199710753"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/5312320772",
+        "amenity": "police",
+        "name": "Αστυνομικό Τμήμα Φενεού"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.3407152,
+          37.9331201
+        ]
+      },
+      "id": "node/5312320772"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/5596559920",
+        "addr:city": "Αίγιο",
+        "addr:housenumber": 26,
+        "addr:postcode": 25100,
+        "addr:street": "Σολωμού",
+        "amenity": "police",
+        "name": "Αστυνομικό Τμήμα Αιγίου"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.0805876,
+          38.2490539
+        ]
+      },
+      "id": "node/5596559920"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "way/232891095",
+        "amenity": "police",
+        "building": "yes",
+        "@geometry": "center",
+        "name": "Διεύθυνση  Ασφάλειας  Πύργου",
+        "phone": "(+30)2621081740",
+        "fax": "(+30)2621033048"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.4359404,
+          37.6770935
+        ]
+      },
+      "id": "way/232891095"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "way/258932605",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Αστυνομικό Τμήμα Κορίνθου",
+        "@geometry": "center",
+        "phone": "(+30)2741077250",
+        "fax": "(+30)2741077257"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.9325634,
+          37.937577
+        ]
+      },
+      "id": "way/258932605"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "way/470068249",
+        "amenity": "police",
+        "building": "yes",
+        "@geometry": "center",
+        "name": "Αστυνομικό Τμήμα Κιάτου",
+        "phone": "(+30)2742022315"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.7505271,
+          38.0085571
+        ]
+      },
+      "id": "way/470068249"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/470433241",
+        "amenity": "police",
+        "name": "Αστυνομικό  Τμήμα  Γυθείου",
+        "phone": "(+30)2733029154",
+        "fax": "(+30)2733022444"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.5674662,
+          36.7576132
+        ]
+      },
+      "id": "node/470433241"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "way/619807804",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Τμήμα  Τροχαίας  Κορινθίας",
+        "@geometry": "center",
+        "phone": "(+30)2741077200",
+        "fax": "(+30)2741023333 / (+30) 2741077206"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.736545,
+          38.0066981
+        ]
+      },
+      "id": "way/619807804"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "way/632812691",
+        "addr:city": "Ξυλόκαστρο",
+        "addr:housenumber": 22,
+        "addr:postcode": 20400,
+        "addr:street": "Αδαμόπουλου",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Αστυνομικό Τμήμα  Ξυλοκάστρου",
+        "@geometry": "center",
+        "phone": "(+30)2743029237"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.6326819,
+          38.0768041
+        ]
+      },
+      "id": "way/632812691"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/633369251",
+        "amenity": "police",
+        "name": "Αστυνομική Διεύθυνση Αχαιας",
+        "phone": "(+30)2610226150",
+        "fax": "(+30)2131527791"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.7540987,
+          38.2613771
+        ]
+      },
+      "id": "node/633369251"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/926449804",
+        "amenity": "police",
+        "name": "Λιμεναρχείο  Κορώνης",
+        "phone": "(+30)2725022377",
+        "fax": "(+30)2725022377"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.9569093,
+          36.7969746
+        ]
+      },
+      "id": "node/926449804"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/926613920",
+        "amenity": "police",
+        "name": "Αστυνομικό Τμήμα Ζακύνθου",
+        "phone": "(+30)2695024450",
+        "fax": "(+30)2695044871"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.897416,
+          37.7826977
+        ]
+      },
+      "id": "node/926613920"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/1249669032",
+        "amenity": "police",
+        "name": "Αστυνομικό Τμήμα Αργοστολίου",
+        "phone": "(+30)2671022314"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.4976336,
+          38.1630159
+        ]
+      },
+      "id": "node/1249669032"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/1372174445",
+        "amenity": "police",
+        "date": 20110724,
+        "name": "Λιμεναρχείο  Καλαμάτας",
+        "source": "bing / wikimapia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.1100038,
+          37.0264501
+        ]
+      },
+      "id": "node/1372174445"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/1372719182",
+        "amenity": "police",
+        "date": 20110724,
+        "name": "Αστυνομική Διεύθυνση Μεσσηνίας",
+        "source": "wikimapia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.0979693,
+          37.0339847
+        ]
+      },
+      "id": "node/1372719182"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/1399391081",
+        "amenity": "police",
+        "name": "Αστυνομικό  Τμήμα  Σπάρτης",
+        "website": "http://www.astynomia.gr/index.php?option=ozo_content&perform=view&id=805&Itemid=96&lang=",
+        "phone": "(+30)2731089580",
+        "fax": "(+30)2731028078"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.4354705,
+          37.0753745
+        ]
+      },
+      "id": "node/1399391081"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/1444851215",
+        "amenity": "police",
+        "int_name": "Megara Police Station",
+        "name": "Αστυνομικό Τμήμα Μεγάρων",
+        "phone": "(+30)2296022100",
+        "fax": "(+30)2131527517"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3440326,
+          37.9963826
+        ]
+      },
+      "id": "node/1444851215"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/1501850562",
+        "amenity": "police",
+        "name": "Αστυνομικό Τμήμα Κορώνης",
+        "phone": "(+30)2725022422"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.9594492,
+          36.7963142
+        ]
+      },
+      "id": "node/1501850562"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/1645269628",
+        "amenity": "police",
+        "name": "Αστυνομικό Τμήμα Πατρών",
+        "phone": "(+30)2610695282",
+        "fax": "(+30)2610277708"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.7377021,
+          38.2455214
+        ]
+      },
+      "id": "node/1645269628"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/1759658586",
+        "amenity": "police",
+        "name": "Αστυνομικό Τμήμα Πόρου",
+        "phone": "(+30)2298022256",
+        "fax": "(+30)2298022462"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.4551227,
+          37.500529
+        ]
+      },
+      "id": "node/1759658586"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/1865430178",
+        "amenity": "police",
+        "name": "Αστυνομικό Τμήμα Βαρθολομιού - Γαστούνης",
+        "phone": "(+30)2623042444"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.2079893,
+          37.8602157
+        ]
+      },
+      "id": "node/1865430178"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/1971249789",
+        "amenity": "police",
+        "name": "Λιμεναρχείο  Πατρών",
+        "phone": "(+30)2613615400",
+        "fax": "(+30)2613615421"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.7344181,
+          38.2426293
+        ]
+      },
+      "id": "node/1971249789"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/1986400251",
+        "amenity": "police",
+        "name": "Αστυνομικό Τμήμα Βάρδα",
+        "phone": "(+30)2623071111"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.3642622,
+          38.0322315
+        ]
+      },
+      "id": "node/1986400251"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/2171707113",
+        "amenity": "police",
+        "name": "Αστυνομικό Τμήμα  Μεγαλόπολης",
+        "phone": "(+30)2791022222",
+        "fax": "(+30)2791026385"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.1384862,
+          37.4031285
+        ]
+      },
+      "id": "node/2171707113"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/2260750002",
+        "amenity": "police",
+        "name": "Αστυνομικό  Τμήμα Τρίπολης",
+        "phone": "(+30)2710230540",
+        "fax": "(+30)2710222229"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.4309289,
+          37.5799181
+        ]
+      },
+      "id": "node/2260750002"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/2262636434",
+        "amenity": "police",
+        "name": "Αστυνομικό  Τμήμα  Πύλου",
+        "phone": "(+30)2723022316"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.6970217,
+          36.9139316
+        ]
+      },
+      "id": "node/2262636434"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/2410383217",
+        "amenity": "police",
+        "name": "Αστυνομικό Τμήμα  Πύργου",
+        "phone": "(+30)2621081730",
+        "fax": "(+30)2621033200"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.4359807,
+          37.6769792
+        ]
+      },
+      "id": "node/2410383217"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/2467823688",
+        "amenity": "police",
+        "name": "Αστυνομικό Τμήμα Τολού",
+        "phone": "(+30)2752098705",
+        "fax": "(+30)2752026231"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.8578067,
+          37.5187466
+        ]
+      },
+      "id": "node/2467823688"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/2919060141",
+        "amenity": "police",
+        "name": "Αστυνομικό  Τμήμα  Κυπαρισσίας",
+        "phone": "(+30)2761062000",
+        "fax": "(+30) 2131527691 / (+30) 2761062234"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.6745131,
+          37.2519133
+        ]
+      },
+      "id": "node/2919060141"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/2984969179",
+        "amenity": "police",
+        "name": "Αστυνομικό Τμήμα Σάμης",
+        "phone": "(+30)2674022100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.6469478,
+          38.2502992
+        ]
+      },
+      "id": "node/2984969179"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/3184924884",
+        "addr:postcode": 23052,
+        "amenity": "police",
+        "name": "Αστυνομικό τμήμα Μολάων",
+        "name:en": "Molai Police Station",
+        "operator": "Ελληνική Αστυνομία",
+        "phone": "(+30)2732022907",
+        "source": "http://www.astynomia.gr/index.php?option=ozo_content&perform=view&id=813&Itemid=96&lang="
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.8632912,
+          36.8035328
+        ]
+      },
+      "id": "node/3184924884"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/3256763559",
+        "amenity": "police",
+        "name": "Αστυνομικό Τμήμα Σπετσών",
+        "phone": "(+30)2298073744"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.1549561,
+          37.2680507
+        ]
+      },
+      "id": "node/3256763559"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/3262539115",
+        "amenity": "police",
+        "name": "Αστυνομικό Τμήμα Άργους",
+        "phone": "(+30)2751067222",
+        "fax": "(+30)2751026101"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.7348502,
+          37.634499
+        ]
+      },
+      "id": "node/3262539115"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/3283682061",
+        "amenity": "police",
+        "name": "Αστυνομικό Τμήμα  Ρόδου",
+        "source": "survey",
+        "phone": "(+30)2298052205",
+        "fax": "(+30)2298053360"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.4676091,
+          37.3498906
+        ]
+      },
+      "id": "node/3283682061"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/3283688762",
+        "amenity": "police",
+        "name": "Λιμεναρχείο  Ύδρας",
+        "source": "survey",
+        "phone": "(+30)2298052279",
+        "fax": "(+30)2298053912"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.4668662,
+          37.3520623
+        ]
+      },
+      "id": "node/3283688762"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/4081111786",
+        "amenity": "police",
+        "name": "Αστυνομικό Τμήμα  Ναυπλίου",
+        "phone": "(+30)2752098707",
+        "fax": "(+30)2752028081"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.8168985,
+          37.5707029
+        ]
+      },
+      "id": "node/4081111786"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/4362278990",
+        "amenity": "police",
+        "name": "Αστυνομικό Τμήμα Κοπανακίου",
+        "phone": "(+30)2761062000",
+        "fax": "(+30)2131527691 / (+30) 2761062234"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.816816,
+          37.2877528
+        ]
+      },
+      "id": "node/4362278990"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/4656449710",
+        "addr:city": "Λάμπεια",
+        "amenity": "police",
+        "name": "Αστυνομικό Τμήμα Λαμπείας",
+        "phone": "(+30)2624081204",
+        "fax": "(+30)2624081204"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.8079281,
+          37.8579562
+        ]
+      },
+      "id": "node/4656449710"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/4872724773",
+        "amenity": "police",
+        "name": "Αστυνομικό Τμήμα Χαλανδρίτσας",
+        "phone": "(+30)2106899784",
+        "fax": "(+30)2106899782"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.7822844,
+          38.1088274
+        ]
+      },
+      "id": "node/4872724773"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/4901522685",
+        "amenity": "police",
+        "name": "Αστυνομικό Τμήμα Κατακόλου",
+        "phone": "(+30)2623071111",
+        "fax": "(+30)2623073333"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.3186971,
+          37.6445705
+        ]
+      },
+      "id": "node/4901522685"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/4907788077",
+        "amenity": "police",
+        "name": "Αστυνομικό Τμήμα Άστρους",
+        "phone": "(+30)2755051111",
+        "fax": "(+30)2755051000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.7631057,
+          37.4145655
+        ]
+      },
+      "id": "node/4907788077"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/5094514480",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Λιμεναρχείο  Ισθμίων - Κορίνθου",
+        "phone": "(+30)2741028888",
+        "fax": "(+30)2741085089"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.009022,
+          37.9158143
+        ]
+      },
+      "id": "node/5094514480"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/5199710753",
+        "amenity": "police",
+        "name": "Αστυνομικό Τμήμα Λουτρακίου",
+        "phone": "(+30)2744063000",
+        "fax": "(+30)2744063242"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.9794979,
+          37.9641076
+        ]
+      },
+      "id": "node/5199710753"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/5312320772",
+        "amenity": "police",
+        "name": "Αστυνομικό Τμήμα Φενεού - Γκούρας",
+        "phone": "(+30)2747051209"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.3407152,
+          37.9331201
+        ]
+      },
+      "id": "node/5312320772"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/5596559920",
+        "addr:city": "Αίγιο",
+        "addr:housenumber": 26,
+        "addr:postcode": 25100,
+        "addr:street": "Σολωμού",
+        "amenity": "police",
+        "name": "Αστυνομικό Τμήμα Αιγίου",
+        "phone": "(+30)2691022100",
+        "fax": "(+30)2131527449 / (+30) 2691068738"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.0805876,
+          38.2490539
+        ]
+      },
+      "id": "node/5596559920"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "amenity": "police",
+        "name": "Αστυνομικό  Τμήμα  Καλαβρύτων",
+        "phone": "(+30)2692023333",
+        "fax": "(+30)2692022213"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.112667560577393,
+          38.03252655603321
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/232891095",
+        "amenity": "police",
+        "building": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.4359404,
+          37.6770935
+        ]
+      },
+      "id": "way/232891095"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/258932605",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Αστυνομικό Τμήμα Κορίνθου",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.9325634,
+          37.937577
+        ]
+      },
+      "id": "way/258932605"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "way/470068249",
+        "amenity": "police",
+        "building": "yes",
+        "@geometry": "center",
+        "name": "Αστυνομικό Τμήμα Κιάτου"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.7505271,
+          38.0085571
+        ]
+      },
+      "id": "way/470068249"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/470433241",
+        "amenity": "police",
+        "name": "Αστυνομικό  Τμήμα  Γυθείου"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.5674662,
+          36.7576132
+        ]
+      },
+      "id": "node/470433241"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "way/619807804",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Τμήμα  Τροχαίας  Κορινθίας",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.736545,
+          38.0066981
+        ]
+      },
+      "id": "way/619807804"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "way/632812691",
+        "addr:city": "Ξυλόκαστρο",
+        "addr:housenumber": 22,
+        "addr:postcode": 20400,
+        "addr:street": "Αδαμόπουλου",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Αστυνομικό Τμήμα  Ξυλοκάστρου",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.6326819,
+          38.0768041
+        ]
+      },
+      "id": "way/632812691"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/633369251",
+        "amenity": "police",
+        "name": "Αστυνομική Διεύθυνση Αχαιας"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.7540987,
+          38.2613771
+        ]
+      },
+      "id": "node/633369251"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/926449804",
+        "amenity": "police",
+        "name": "Λιμεναρχείο  Κορώνης"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.9569093,
+          36.7969746
+        ]
+      },
+      "id": "node/926449804"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/926613920",
+        "amenity": "police",
+        "name": "Αστυνομικό Τμήμα Ζακύνθου"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.897416,
+          37.7826977
+        ]
+      },
+      "id": "node/926613920"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/1249669032",
+        "amenity": "police",
+        "name": "Αστυνομικό Τμήμα Αργοστολίου"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.4976336,
+          38.1630159
+        ]
+      },
+      "id": "node/1249669032"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/1372174445",
+        "amenity": "police",
+        "date": 20110724,
+        "name": "Λιμεναρχείο  Καλαμάτας",
+        "source": "bing / wikimapia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.1100038,
+          37.0264501
+        ]
+      },
+      "id": "node/1372174445"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/1372719182",
+        "amenity": "police",
+        "date": 20110724,
+        "name": "Αστυνομική Διεύθυνση Μεσσηνίας",
+        "source": "wikimapia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.0979693,
+          37.0339847
+        ]
+      },
+      "id": "node/1372719182"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/1399391081",
+        "amenity": "police",
+        "name": "Αστυνομικό  Τμήμα  Σπάρτης",
+        "website": "http://www.astynomia.gr/index.php?option=ozo_content&perform=view&id=805&Itemid=96&lang="
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.4354705,
+          37.0753745
+        ]
+      },
+      "id": "node/1399391081"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/1444851215",
+        "amenity": "police",
+        "int_name": "Megara Police Station",
+        "name": "Αστυνομικό Τμήμα Μεγάρων"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3440326,
+          37.9963826
+        ]
+      },
+      "id": "node/1444851215"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/1501850562",
+        "amenity": "police",
+        "name": "Αστυνομικό Τμήμα Κορώνης"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.9594492,
+          36.7963142
+        ]
+      },
+      "id": "node/1501850562"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/1645269628",
+        "amenity": "police",
+        "name": "Αστυνομικό Τμήμα Πατρών"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.7377021,
+          38.2455214
+        ]
+      },
+      "id": "node/1645269628"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/1759658586",
+        "amenity": "police",
+        "name": "Αστυνομικό Τμήμα Πόρου"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.4551227,
+          37.500529
+        ]
+      },
+      "id": "node/1759658586"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/1865430178",
+        "amenity": "police",
+        "name": "Αστυνομικό Τμήμα Βαρθολομιού - Γαστούνης"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.2079893,
+          37.8602157
+        ]
+      },
+      "id": "node/1865430178"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/1971249789",
+        "amenity": "police",
+        "name": "Λιμεναρχείο  Πατρών"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.7344181,
+          38.2426293
+        ]
+      },
+      "id": "node/1971249789"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/1986400251",
+        "amenity": "police",
+        "name": "Αστυνομικό Τμήμα Βάρδα"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.3642622,
+          38.0322315
+        ]
+      },
+      "id": "node/1986400251"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/2171707113",
+        "amenity": "police",
+        "name": "Αστυνομικό Τμήμα  Μεγαλόπολης"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.1384862,
+          37.4031285
+        ]
+      },
+      "id": "node/2171707113"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/2260750002",
+        "amenity": "police",
+        "name": "Αστυνομικό  Τμήμα Τρίπολης"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.4309289,
+          37.5799181
+        ]
+      },
+      "id": "node/2260750002"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/2262636434",
+        "amenity": "police",
+        "name": "Αστυνομικό  Τμήμα  Πύλου"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.6970217,
+          36.9139316
+        ]
+      },
+      "id": "node/2262636434"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/2410383217",
+        "amenity": "police",
+        "name": "Αστυνομικό Τμήμα  Πύργου"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.4359807,
+          37.6769792
+        ]
+      },
+      "id": "node/2410383217"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/2467823688",
+        "amenity": "police",
+        "name": "Αστυνομικό Τμήμα Τολού"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.8578067,
+          37.5187466
+        ]
+      },
+      "id": "node/2467823688"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/2919060141",
+        "amenity": "police",
+        "name": "Αστυνομικό  Τμήμα  Κυπαρισσίας"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.6745131,
+          37.2519133
+        ]
+      },
+      "id": "node/2919060141"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/2984969179",
+        "amenity": "police",
+        "name": "Αστυνομικό Τμήμα Σάμης"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.6469478,
+          38.2502992
+        ]
+      },
+      "id": "node/2984969179"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3184924884",
+        "addr:postcode": 23052,
+        "amenity": "police",
+        "name": "Αστυνομικό τμήμα Μολάων",
+        "name:en": "Molai Police Station",
+        "operator": "Ελληνική Αστυνομία",
+        "phone": "+302732022207",
+        "source": "http://www.astynomia.gr/index.php?option=ozo_content&perform=view&id=813&Itemid=96&lang="
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.8632912,
+          36.8035328
+        ]
+      },
+      "id": "node/3184924884"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3256763559",
+        "amenity": "police",
+        "name": "Αστυνομικό Τμήμα Σπετσών"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.1549561,
+          37.2680507
+        ]
+      },
+      "id": "node/3256763559"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/3262539115",
+        "amenity": "police",
+        "name": "Αστυνομικό Τμήμα Άργους"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.7348502,
+          37.634499
+        ]
+      },
+      "id": "node/3262539115"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/3283682061",
+        "amenity": "police",
+        "name": "Αστυνομικό Τμήμα  Ρόδου",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.4676091,
+          37.3498906
+        ]
+      },
+      "id": "node/3283682061"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/3283688762",
+        "amenity": "police",
+        "name": "Λιμεναρχείο  Ύδρας",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.4668662,
+          37.3520623
+        ]
+      },
+      "id": "node/3283688762"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/4081111786",
+        "amenity": "police",
+        "name": "Αστυνομικό Τμήμα  Ναυπλίου"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.8168985,
+          37.5707029
+        ]
+      },
+      "id": "node/4081111786"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/4362278990",
+        "amenity": "police",
+        "name": "Αστυνομικό Τμήμα Κοπανακίου"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.816816,
+          37.2877528
+        ]
+      },
+      "id": "node/4362278990"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/4656449710",
+        "addr:city": "Λάμπεια",
+        "amenity": "police",
+        "name": "Αστυνομικό Τμήμα Λαμπείας"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.8079281,
+          37.8579562
+        ]
+      },
+      "id": "node/4656449710"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/4872724773",
+        "amenity": "police",
+        "name": "Αστυνομικό Τμήμα Χαλανδρίτσας"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.7822844,
+          38.1088274
+        ]
+      },
+      "id": "node/4872724773"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/4901522685",
+        "amenity": "police",
+        "name": "Αστυνομικό Τμήμα Κατακόλου"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.3186971,
+          37.6445705
+        ]
+      },
+      "id": "node/4901522685"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/4907788077",
+        "amenity": "police",
+        "name": "Αστυνομικό Τμήμα Άστρους"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.7631057,
+          37.4145655
+        ]
+      },
+      "id": "node/4907788077"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5094514480",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Λιμεναρχείο Ισθμίων"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.009022,
+          37.9158143
+        ]
+      },
+      "id": "node/5094514480"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/5199710753",
+        "amenity": "police",
+        "name": "Αστυνομικό Τμήμα Λουτρακίου"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.9794979,
+          37.9641076
+        ]
+      },
+      "id": "node/5199710753"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/5312320772",
+        "amenity": "police",
+        "name": "Αστυνομικό Τμήμα Φενεού"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.3407152,
+          37.9331201
+        ]
+      },
+      "id": "node/5312320772"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/5596559920",
+        "addr:city": "Αίγιο",
+        "addr:housenumber": 26,
+        "addr:postcode": 25100,
+        "addr:street": "Σολωμού",
+        "amenity": "police",
+        "name": "Αστυνομικό Τμήμα Αιγίου"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.0805876,
+          38.2490539
+        ]
+      },
+      "id": "node/5596559920"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "way/232891095",
+        "amenity": "police",
+        "building": "yes",
+        "@geometry": "center",
+        "name": "Διεύθυνση  Ασφάλειας  Πύργου",
+        "phone": "(+30)2621081740",
+        "fax": "(+30)2621033048"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.4359404,
+          37.6770935
+        ]
+      },
+      "id": "way/232891095"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "way/258932605",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Αστυνομικό Τμήμα Κορίνθου",
+        "@geometry": "center",
+        "phone": "(+30)2741077250",
+        "fax": "(+30)2741077257"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.9325634,
+          37.937577
+        ]
+      },
+      "id": "way/258932605"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "way/470068249",
+        "amenity": "police",
+        "building": "yes",
+        "@geometry": "center",
+        "name": "Αστυνομικό Τμήμα Κιάτου",
+        "phone": "(+30)2742022315"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.7505271,
+          38.0085571
+        ]
+      },
+      "id": "way/470068249"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/470433241",
+        "amenity": "police",
+        "name": "Αστυνομικό  Τμήμα  Γυθείου",
+        "phone": "(+30)2733029154",
+        "fax": "(+30)2733022444"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.5674662,
+          36.7576132
+        ]
+      },
+      "id": "node/470433241"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "way/619807804",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Τμήμα  Τροχαίας  Κορινθίας",
+        "@geometry": "center",
+        "phone": "(+30)2741077200",
+        "fax": "(+30)2741023333 / (+30) 2741077206"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.736545,
+          38.0066981
+        ]
+      },
+      "id": "way/619807804"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "way/632812691",
+        "addr:city": "Ξυλόκαστρο",
+        "addr:housenumber": 22,
+        "addr:postcode": 20400,
+        "addr:street": "Αδαμόπουλου",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Αστυνομικό Τμήμα  Ξυλοκάστρου",
+        "@geometry": "center",
+        "phone": "(+30)2743029237"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.6326819,
+          38.0768041
+        ]
+      },
+      "id": "way/632812691"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/633369251",
+        "amenity": "police",
+        "name": "Αστυνομική Διεύθυνση Αχαιας",
+        "phone": "(+30)2610226150",
+        "fax": "(+30)2131527791"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.7540987,
+          38.2613771
+        ]
+      },
+      "id": "node/633369251"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/926449804",
+        "amenity": "police",
+        "name": "Λιμεναρχείο  Κορώνης",
+        "phone": "(+30)2725022377",
+        "fax": "(+30)2725022377"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.9569093,
+          36.7969746
+        ]
+      },
+      "id": "node/926449804"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/926613920",
+        "amenity": "police",
+        "name": "Αστυνομικό Τμήμα Ζακύνθου",
+        "phone": "(+30)2695024450",
+        "fax": "(+30)2695044871"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.897416,
+          37.7826977
+        ]
+      },
+      "id": "node/926613920"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/1249669032",
+        "amenity": "police",
+        "name": "Αστυνομικό Τμήμα Αργοστολίου",
+        "phone": "(+30)2671022314"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.4976336,
+          38.1630159
+        ]
+      },
+      "id": "node/1249669032"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/1372174445",
+        "amenity": "police",
+        "date": 20110724,
+        "name": "Λιμεναρχείο  Καλαμάτας",
+        "source": "bing / wikimapia",
+        "phone": "(+30)2721022218",
+        "fax": "(+30)2721096220"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.1100038,
+          37.0264501
+        ]
+      },
+      "id": "node/1372174445"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/1372719182",
+        "amenity": "police",
+        "date": 20110724,
+        "name": "Αστυνομική Διεύθυνση Μεσσηνίας",
+        "source": "wikimapia",
+        "phone": "(+30)2721044600",
+        "fax": "(+30)2721022760 / (+30)2721044621"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.0979693,
+          37.0339847
+        ]
+      },
+      "id": "node/1372719182"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/1399391081",
+        "amenity": "police",
+        "name": "Αστυνομικό  Τμήμα  Σπάρτης",
+        "website": "http://www.astynomia.gr/index.php?option=ozo_content&perform=view&id=805&Itemid=96&lang=",
+        "phone": "(+30)2731089580",
+        "fax": "(+30)2731028078"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.4354705,
+          37.0753745
+        ]
+      },
+      "id": "node/1399391081"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/1444851215",
+        "amenity": "police",
+        "int_name": "Megara Police Station",
+        "name": "Αστυνομικό Τμήμα Μεγάρων",
+        "phone": "(+30)2296022100",
+        "fax": "(+30)2131527517"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3440326,
+          37.9963826
+        ]
+      },
+      "id": "node/1444851215"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/1501850562",
+        "amenity": "police",
+        "name": "Αστυνομικό Τμήμα Κορώνης",
+        "phone": "(+30)2725022422"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.9594492,
+          36.7963142
+        ]
+      },
+      "id": "node/1501850562"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/1645269628",
+        "amenity": "police",
+        "name": "Αστυνομικό Τμήμα Πατρών",
+        "phone": "(+30)2610695282",
+        "fax": "(+30)2610277708"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.7377021,
+          38.2455214
+        ]
+      },
+      "id": "node/1645269628"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/1759658586",
+        "amenity": "police",
+        "name": "Αστυνομικό Τμήμα Πόρου",
+        "phone": "(+30)2298022256",
+        "fax": "(+30)2298022462"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.4551227,
+          37.500529
+        ]
+      },
+      "id": "node/1759658586"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/1865430178",
+        "amenity": "police",
+        "name": "Αστυνομικό Τμήμα Βαρθολομιού - Γαστούνης",
+        "phone": "(+30)2623042444"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.2079893,
+          37.8602157
+        ]
+      },
+      "id": "node/1865430178"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/1971249789",
+        "amenity": "police",
+        "name": "Λιμεναρχείο  Πατρών",
+        "phone": "(+30)2613615400",
+        "fax": "(+30)2613615421"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.7344181,
+          38.2426293
+        ]
+      },
+      "id": "node/1971249789"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/1986400251",
+        "amenity": "police",
+        "name": "Αστυνομικό Τμήμα Βάρδα",
+        "phone": "(+30)2623071111"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.3642622,
+          38.0322315
+        ]
+      },
+      "id": "node/1986400251"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/2171707113",
+        "amenity": "police",
+        "name": "Αστυνομικό Τμήμα  Μεγαλόπολης",
+        "phone": "(+30)2791022222",
+        "fax": "(+30)2791026385"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.1384862,
+          37.4031285
+        ]
+      },
+      "id": "node/2171707113"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/2260750002",
+        "amenity": "police",
+        "name": "Αστυνομικό  Τμήμα Τρίπολης",
+        "phone": "(+30)2710230540",
+        "fax": "(+30)2710222229"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.4309289,
+          37.5799181
+        ]
+      },
+      "id": "node/2260750002"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/2262636434",
+        "amenity": "police",
+        "name": "Αστυνομικό  Τμήμα  Πύλου",
+        "phone": "(+30)2723022316"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.6970217,
+          36.9139316
+        ]
+      },
+      "id": "node/2262636434"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/2410383217",
+        "amenity": "police",
+        "name": "Αστυνομικό Τμήμα  Πύργου",
+        "phone": "(+30)2621081730",
+        "fax": "(+30)2621033200"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.4359807,
+          37.6769792
+        ]
+      },
+      "id": "node/2410383217"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/2467823688",
+        "amenity": "police",
+        "name": "Αστυνομικό Τμήμα Τολού",
+        "phone": "(+30)2752098705",
+        "fax": "(+30)2752026231"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.8578067,
+          37.5187466
+        ]
+      },
+      "id": "node/2467823688"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/2919060141",
+        "amenity": "police",
+        "name": "Αστυνομικό  Τμήμα  Κυπαρισσίας",
+        "phone": "(+30)2761062000",
+        "fax": "(+30) 2131527691 / (+30) 2761062234"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.6745131,
+          37.2519133
+        ]
+      },
+      "id": "node/2919060141"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/2984969179",
+        "amenity": "police",
+        "name": "Αστυνομικό Τμήμα Σάμης",
+        "phone": "(+30)2674022100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.6469478,
+          38.2502992
+        ]
+      },
+      "id": "node/2984969179"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/3184924884",
+        "addr:postcode": 23052,
+        "amenity": "police",
+        "name": "Αστυνομικό τμήμα Μολάων",
+        "name:en": "Molai Police Station",
+        "operator": "Ελληνική Αστυνομία",
+        "phone": "(+30)2732022907",
+        "source": "http://www.astynomia.gr/index.php?option=ozo_content&perform=view&id=813&Itemid=96&lang="
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.8632912,
+          36.8035328
+        ]
+      },
+      "id": "node/3184924884"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/3256763559",
+        "amenity": "police",
+        "name": "Αστυνομικό Τμήμα Σπετσών",
+        "phone": "(+30)2298073744"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.1549561,
+          37.2680507
+        ]
+      },
+      "id": "node/3256763559"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/3262539115",
+        "amenity": "police",
+        "name": "Αστυνομικό Τμήμα Άργους",
+        "phone": "(+30)2751067222",
+        "fax": "(+30)2751026101"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.7348502,
+          37.634499
+        ]
+      },
+      "id": "node/3262539115"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/3283682061",
+        "amenity": "police",
+        "name": "Αστυνομικό Τμήμα  Ρόδου",
+        "source": "survey",
+        "phone": "(+30)2298052205",
+        "fax": "(+30)2298053360"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.4676091,
+          37.3498906
+        ]
+      },
+      "id": "node/3283682061"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/3283688762",
+        "amenity": "police",
+        "name": "Λιμεναρχείο  Ύδρας",
+        "source": "survey",
+        "phone": "(+30)2298052279",
+        "fax": "(+30)2298053912"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.4668662,
+          37.3520623
+        ]
+      },
+      "id": "node/3283688762"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/4081111786",
+        "amenity": "police",
+        "name": "Αστυνομικό Τμήμα  Ναυπλίου",
+        "phone": "(+30)2752098707",
+        "fax": "(+30)2752028081"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.8168985,
+          37.5707029
+        ]
+      },
+      "id": "node/4081111786"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/4362278990",
+        "amenity": "police",
+        "name": "Αστυνομικό Τμήμα Κοπανακίου",
+        "phone": "(+30)2761062000",
+        "fax": "(+30)2131527691 / (+30) 2761062234"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.816816,
+          37.2877528
+        ]
+      },
+      "id": "node/4362278990"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/4656449710",
+        "addr:city": "Λάμπεια",
+        "amenity": "police",
+        "name": "Αστυνομικό Τμήμα Λαμπείας",
+        "phone": "(+30)2624081204",
+        "fax": "(+30)2624081204"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.8079281,
+          37.8579562
+        ]
+      },
+      "id": "node/4656449710"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/4872724773",
+        "amenity": "police",
+        "name": "Αστυνομικό Τμήμα Χαλανδρίτσας",
+        "phone": "(+30)2106899784",
+        "fax": "(+30)2106899782"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.7822844,
+          38.1088274
+        ]
+      },
+      "id": "node/4872724773"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/4901522685",
+        "amenity": "police",
+        "name": "Αστυνομικό Τμήμα Κατακόλου",
+        "phone": "(+30)2623071111",
+        "fax": "(+30)2623073333"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.3186971,
+          37.6445705
+        ]
+      },
+      "id": "node/4901522685"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/4907788077",
+        "amenity": "police",
+        "name": "Αστυνομικό Τμήμα Άστρους",
+        "phone": "(+30)2755051111",
+        "fax": "(+30)2755051000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.7631057,
+          37.4145655
+        ]
+      },
+      "id": "node/4907788077"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/5094514480",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Λιμεναρχείο  Ισθμίων - Κορίνθου",
+        "phone": "(+30)2741028888",
+        "fax": "(+30)2741085089"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.009022,
+          37.9158143
+        ]
+      },
+      "id": "node/5094514480"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/5199710753",
+        "amenity": "police",
+        "name": "Αστυνομικό Τμήμα Λουτρακίου",
+        "phone": "(+30)2744063000",
+        "fax": "(+30)2744063242"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.9794979,
+          37.9641076
+        ]
+      },
+      "id": "node/5199710753"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/5312320772",
+        "amenity": "police",
+        "name": "Αστυνομικό Τμήμα Φενεού - Γκούρας",
+        "phone": "(+30)2747051209"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.3407152,
+          37.9331201
+        ]
+      },
+      "id": "node/5312320772"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/5596559920",
+        "addr:city": "Αίγιο",
+        "addr:housenumber": 26,
+        "addr:postcode": 25100,
+        "addr:street": "Σολωμού",
+        "amenity": "police",
+        "name": "Αστυνομικό Τμήμα Αιγίου",
+        "phone": "(+30)2691022100",
+        "fax": "(+30)2131527449 / (+30) 2691068738"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.0805876,
+          38.2490539
+        ]
+      },
+      "id": "node/5596559920"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "amenity": "police",
+        "name": "Αστυνομικό  Τμήμα  Καλαβρύτων",
+        "phone": "(+30)2692023333",
+        "fax": "(+30)2692022213"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.112667560577393,
+          38.03252655603321
+        ]
+      }
+    }
+  ]
+}

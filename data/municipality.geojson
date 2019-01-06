@@ -1,0 +1,1630 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "way/122991764",
+        "addr:city": "Καλαμάτα",
+        "addr:housenumber": 99,
+        "addr:street": "Αθηνών",
+        "amenity": "townhall",
+        "building": "yes",
+        "name": "Δήμος  Καλαμάτας",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.1011036,
+          37.040451
+        ]
+      },
+      "id": "way/122991764"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "way/145557683",
+        "amenity": "townhall",
+        "building": "yes",
+        "name": "Δήμος  Σπάρτης",
+        "name:en": "City Hall of Sparti",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.4292139,
+          37.0736785
+        ]
+      },
+      "id": "way/145557683"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "way/163997310",
+        "amenity": "townhall",
+        "building": "yes",
+        "name": "Δήμος  Μεγάρων",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3443619,
+          37.9962954
+        ]
+      },
+      "id": "way/163997310"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "way/196323839",
+        "addr:city": "Αίγινα",
+        "addr:housenumber": 1,
+        "addr:postcode": 18010,
+        "addr:street": "Χρήστου Λαδά",
+        "amenity": "townhall",
+        "building": "yes",
+        "contact:phone": "+30 2297320036",
+        "contact:website": "www.aegina.gr",
+        "name": "Δήμος  Αίγινας",
+        "name:en": "Aegina Town Hall",
+        "opening_hours": "Mo-Fr 07:30-15:00",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.4296758,
+          37.7453757
+        ]
+      },
+      "id": "way/196323839"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "way/207557899",
+        "amenity": "townhall",
+        "name": "Δήμος  Μεγαλόπολης",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.1362883,
+          37.4017065
+        ]
+      },
+      "id": "way/207557899"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "way/216992769",
+        "addr:city": "Κόρινθος",
+        "addr:housename": "Κολιάτσου 1",
+        "addr:housenumber": 32,
+        "addr:street": "Κολιάτσου",
+        "amenity": "townhall",
+        "building": "yes",
+        "name": "Δήμος  Κορίνθου",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.9330846,
+          37.9380974
+        ]
+      },
+      "id": "way/216992769"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "way/233060334",
+        "amenity": "townhall",
+        "building": "yes",
+        "name": "Δήμος  Πύργου",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.4361288,
+          37.6738268
+        ]
+      },
+      "id": "way/233060334"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "way/303036342",
+        "amenity": "townhall",
+        "building": "yes",
+        "name": "Δήμος  Αιγιαλείας",
+        "name:el": "Δημαρχείο Αιγιαλείας",
+        "name:en": "Aigialeia Municipal Centre",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.087789,
+          38.2499806
+        ]
+      },
+      "id": "way/303036342"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "way/303938345",
+        "addr:city": "Ναύπλιο",
+        "addr:housenumber": 34,
+        "addr:street": "Βασιλέως Κωνσταντίνου",
+        "amenity": "townhall",
+        "building": "yes",
+        "name": "Δήμος  Ναυπλίου",
+        "name:it": "Municipio di Nauplia",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.7999983,
+          37.5656641
+        ]
+      },
+      "id": "way/303938345"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "way/421623922",
+        "addr:city": "Γύθειο",
+        "amenity": "townhall",
+        "building": "civic",
+        "name": "Δήμος  Μάνης",
+        "name:de": "Rathaus",
+        "name:en": "Town Hall",
+        "townhall:type": "city",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.5659819,
+          36.760325
+        ]
+      },
+      "id": "way/421623922"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "way/439184778",
+        "amenity": "townhall",
+        "building": "yes",
+        "@geometry": "center",
+        "name": "Δήμος  Ζαχάρως"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.6489603,
+          37.4864419
+        ]
+      },
+      "id": "way/439184778"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "way/572408347",
+        "amenity": "townhall",
+        "building": "yes",
+        "building:levels": 2,
+        "@geometry": "center",
+        "name": "Δήμος Σπετσών"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.1518411,
+          37.2691528
+        ]
+      },
+      "id": "way/572408347"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "way/588126368",
+        "amenity": "townhall",
+        "building": "yes",
+        "@geometry": "center",
+        "name": "Δήμος  Τριφυλίας"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.6721452,
+          37.2504122
+        ]
+      },
+      "id": "way/588126368"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "way/605641397",
+        "addr:city": "Σαλαμίνα",
+        "addr:housenumber": 1,
+        "addr:postcode": 18900,
+        "addr:street": "Αμμοχώστου",
+        "amenity": "townhall",
+        "building": "yes",
+        "email": "mail@0165.syzefxis.gov.gr",
+        "name": "Δήμος Σαλαμίνας",
+        "phone": 2132027300,
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.5016865,
+          37.9638057
+        ]
+      },
+      "id": "way/605641397"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "way/611127227",
+        "amenity": "townhall",
+        "building": "public",
+        "@geometry": "center",
+        "name": "Δημοτικό  Διαμέρισμα  Κορώνης"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.9594138,
+          36.797088
+        ]
+      },
+      "id": "way/611127227"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/1249835429",
+        "amenity": "townhall",
+        "name": "Δήμος  Αργοστολίου"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.4883009,
+          38.1782236
+        ]
+      },
+      "id": "node/1249835429"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/1756127283",
+        "amenity": "townhall",
+        "name": "Δήμος  Πόρου"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.4536361,
+          37.4984677
+        ]
+      },
+      "id": "node/1756127283"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/1865445505",
+        "amenity": "townhall",
+        "name": "Δήμος  Πηνείου"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.208075,
+          37.861732
+        ]
+      },
+      "id": "node/1865445505"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/1927592772",
+        "amenity": "townhall",
+        "name": "Δήμος  Ερυμάνθου"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.7796826,
+          38.1090268
+        ]
+      },
+      "id": "node/1927592772"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/1996468829",
+        "amenity": "townhall",
+        "name": "Δήμος  Αβίας"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.2007962,
+          36.9370315
+        ]
+      },
+      "id": "node/1996468829"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/2384661726",
+        "amenity": "townhall",
+        "name": "Δημοτικό  Διαμέρισμα  Μεθώνης"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.7061474,
+          36.820216
+        ]
+      },
+      "id": "node/2384661726"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/2658371651",
+        "addr:city": "Λουτράκι",
+        "addr:postcode": 20300,
+        "addr:street": "Ιάσονος 1",
+        "amenity": "townhall",
+        "name": "Δήμος Λουτρακίου - Αγίων Θεοδώρων"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.9766785,
+          37.9753977
+        ]
+      },
+      "id": "node/2658371651"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/3034240959",
+        "addr:city": "Ύδρα",
+        "addr:housename": "Περίβολος Ιερού Ναού Κοιμήσεως της Θεοτόκου",
+        "addr:postcode": 18040,
+        "amenity": "townhall",
+        "name": "Δήμος  Ύδρας",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.465558,
+          37.3490901
+        ]
+      },
+      "id": "node/3034240959"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/3127244635",
+        "addr:city": "Πύλος",
+        "addr:postcode": 24001,
+        "amenity": "townhall",
+        "name:en": "City Hall",
+        "name": "Δήμος Πύλου - Νέστορος"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.6952858,
+          36.9143157
+        ]
+      },
+      "id": "node/3127244635"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/3165725336",
+        "addr:city": "Λάμπεια",
+        "addr:postcode": 27063,
+        "amenity": "townhall",
+        "name": "Δήμος Αρχαίας Ολυμπίας"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.8065763,
+          37.8585275
+        ]
+      },
+      "id": "node/3165725336"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/3177021008",
+        "addr:city": "Kiato",
+        "addr:postcode": 20200,
+        "amenity": "townhall",
+        "name": "Δήμος  Σικυωνίων",
+        "website": "http://www.kiato.gov.gr/",
+        "wikidata": "Q3555045",
+        "wikipedia": "en:Kiato"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.7494698,
+          38.0138798
+        ]
+      },
+      "id": "node/3177021008"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/3262995180",
+        "amenity": "townhall",
+        "name": "Δήμος  Άργους"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.7270402,
+          37.6339965
+        ]
+      },
+      "id": "node/3262995180"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/4793219398",
+        "amenity": "townhall",
+        "name": "Δήμος  Ερμιονίδας"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.2501271,
+          37.3836633
+        ]
+      },
+      "id": "node/4793219398"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/5145230327",
+        "addr:postcode": 23052,
+        "addr:street": "Σπάρτη - Μονεμβασιά",
+        "amenity": "townhall",
+        "internet_access": "wlan",
+        "name": "Δήμος  Μονεμβασιάς",
+        "name:en": "Municipality of Monemvasia Town Hall",
+        "opening_hours": "Mo-Fr 07:00-16:00",
+        "phone": 2732360500,
+        "website": "http://www.monemvasia.gov.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.8620652,
+          36.803045
+        ]
+      },
+      "id": "node/5145230327"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/5834713541",
+        "amenity": "townhall",
+        "name": "Δήμος Ανδραβίδας - Κυλλήνης"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.2637565,
+          37.9382302
+        ]
+      },
+      "id": "node/5834713541"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "amenity": "townhall",
+        "name": "Δήμος  Τρίπολης"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.37091064453125,
+          37.507547084964116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "amenity": "townhall",
+        "name": "Δήμος  Πατρέων"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.737823486328125,
+          38.23494411562881
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "amenity": "townhall",
+        "name": "Δήμος  Καλαβρύτων"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.112045288085938,
+          38.03078569382294
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "amenity": "townhall",
+        "name": "Δήμος  Βόρειας  Κυνουρίας"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.72294521331787,
+          37.40484364051082
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "amenity": "townhall",
+        "name": "Δήμος  Νότιας  Κυνουρίας"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.86030650138855,
+          37.166857265844364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "way/122991764",
+        "addr:city": "Καλαμάτα",
+        "addr:housenumber": 99,
+        "addr:street": "Αθηνών",
+        "amenity": "townhall",
+        "building": "yes",
+        "name": "Δήμος  Καλαμάτας",
+        "@geometry": "center",
+        "phone": "(+30)2721360700",
+        "fax": "(+30)2721360760",
+        "url": "http://www.kalamata.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.1011036,
+          37.040451
+        ]
+      },
+      "id": "way/122991764"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "way/145557683",
+        "amenity": "townhall",
+        "building": "yes",
+        "name": "Δήμος  Σπάρτης",
+        "name:en": "City Hall of Sparti",
+        "@geometry": "center",
+        "phone": "(+30)2731022226 / (+30)271081866",
+        "fax": "(+30)2731022203",
+        "url": " http://www.sparti.gov.gr/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.4292139,
+          37.0736785
+        ]
+      },
+      "id": "way/145557683"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "way/163997310",
+        "amenity": "townhall",
+        "building": "yes",
+        "name": "Δήμος  Μεγάρων",
+        "@geometry": "center",
+        "phone": "(+30)2296081841/ (+30)2296081777",
+        "fax": "(+30)2296082374",
+        "url": "http://www.megara.gr/portal/index.php"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3443619,
+          37.9962954
+        ]
+      },
+      "id": "way/163997310"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "way/196323839",
+        "addr:city": "Αίγινα",
+        "addr:housenumber": 1,
+        "addr:postcode": 18010,
+        "addr:street": "Χρήστου Λαδά",
+        "amenity": "townhall",
+        "building": "yes",
+        "contact:phone": "+30 2297320036",
+        "contact:website": "www.aegina.gr",
+        "name": "Δήμος  Αίγινας",
+        "name:en": "Aegina Town Hall",
+        "opening_hours": "Mo-Fr 07:30-15:00",
+        "@geometry": "center",
+        "phone": "(+30)2297320000",
+        "fax": "(+30)2297025099",
+        "url": "http://www.aegina.gr/online/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.4296758,
+          37.7453757
+        ]
+      },
+      "id": "way/196323839"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "way/207557899",
+        "amenity": "townhall",
+        "name": "Δήμος  Μεγαλόπολης",
+        "@geometry": "center",
+        "phone": "(+30)2791360200 / (+30)2791360285 ",
+        "fax": "(+30)2791024542",
+        "url": "https://www.megalopoli.gov.gr/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.1362883,
+          37.4017065
+        ]
+      },
+      "id": "way/207557899"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "way/216992769",
+        "addr:city": "Κόρινθος",
+        "addr:housename": "Κολιάτσου 1",
+        "addr:housenumber": 32,
+        "addr:street": "Κολιάτσου",
+        "amenity": "townhall",
+        "building": "yes",
+        "name": "Δήμος  Κορίνθου",
+        "@geometry": "center",
+        "phone": "(+30)2741022132",
+        "fax": "(+30)2741071700",
+        "url": "http://www.korinthos.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.9330846,
+          37.9380974
+        ]
+      },
+      "id": "way/216992769"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "way/233060334",
+        "amenity": "townhall",
+        "building": "yes",
+        "name": "Δήμος  Πύργου",
+        "@geometry": "center",
+        "phone": "(+30)2621022404 / (+30)2621032588",
+        "fax": "(+30)2621031481",
+        "url": "http://www.dimospirgou.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.4361288,
+          37.6738268
+        ]
+      },
+      "id": "way/233060334"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "way/303036342",
+        "amenity": "townhall",
+        "building": "yes",
+        "name": "Δήμος  Αιγιαλείας",
+        "name:el": "Δημαρχείο Αιγιαλείας",
+        "name:en": "Aigialeia Municipal Centre",
+        "@geometry": "center",
+        "phone": "(+30)2691022200 / (+30)2691022305",
+        "fax": "(+30)2691023848",
+        "url": " http://www.aigio.gov.gr/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.087789,
+          38.2499806
+        ]
+      },
+      "id": "way/303036342"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "way/303938345",
+        "addr:city": "Ναύπλιο",
+        "addr:housenumber": 34,
+        "addr:street": "Βασιλέως Κωνσταντίνου",
+        "amenity": "townhall",
+        "building": "yes",
+        "name": "Δήμος  Ναυπλίου",
+        "name:it": "Municipio di Nauplia",
+        "@geometry": "center",
+        "phone": "(+30)2752023332",
+        "fax": "(+30)2752028607",
+        "url": "http://www.nafplio.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.7999983,
+          37.5656641
+        ]
+      },
+      "id": "way/303938345"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "way/421623922",
+        "addr:city": "Γύθειο",
+        "amenity": "townhall",
+        "building": "civic",
+        "name": "Δήμος  Μάνης",
+        "name:de": "Rathaus",
+        "name:en": "Town Hall",
+        "townhall:type": "city",
+        "@geometry": "center",
+        "phone": "(+30)2733360300",
+        "fax": "(+30)2733023813",
+        "url": "http://www.anatolikimani.gov.gr/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.5659819,
+          36.760325
+        ]
+      },
+      "id": "way/421623922"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "way/439184778",
+        "amenity": "townhall",
+        "building": "yes",
+        "@geometry": "center",
+        "name": "Δήμος  Ζαχάρως",
+        "phone": "(+30)2625336234 / (+30)2625336212",
+        "fax": "(+30)2625036214",
+        "url": "http://www.zacharo.gov.gr/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.6489603,
+          37.4864419
+        ]
+      },
+      "id": "way/439184778"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "way/572408347",
+        "amenity": "townhall",
+        "building": "yes",
+        "building:levels": 2,
+        "@geometry": "center",
+        "name": "Δήμος Σπετσών",
+        "phone": "(+30)2298320010 / (+30)2298072225",
+        "fax": "(+30)2298073366",
+        "url": "http://www.spetses.gr/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.1518411,
+          37.2691528
+        ]
+      },
+      "id": "way/572408347"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "way/588126368",
+        "amenity": "townhall",
+        "building": "yes",
+        "@geometry": "center",
+        "name": "Δήμος  Τριφυλίας",
+        "phone": "(+30) 2761062020, (+30)2761022280",
+        "fax": "(+30)2761060726",
+        "url": "http://www.kyparissia.gr/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.6721452,
+          37.2504122
+        ]
+      },
+      "id": "way/588126368"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "way/605641397",
+        "addr:city": "Σαλαμίνα",
+        "addr:housenumber": 1,
+        "addr:postcode": 18900,
+        "addr:street": "Αμμοχώστου",
+        "amenity": "townhall",
+        "building": "yes",
+        "email": "mail@0165.syzefxis.gov.gr",
+        "name": "Δήμος Σαλαμίνας",
+        "phone": "(+30)2104646000 / (+30)2104646100",
+        "@geometry": "center",
+        "fax": "(+30)2104646190",
+        "url": "http://www.salamina.gr/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.5016865,
+          37.9638057
+        ]
+      },
+      "id": "way/605641397"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "way/611127227",
+        "amenity": "townhall",
+        "building": "public",
+        "@geometry": "center",
+        "name": "Δημοτικό  Διαμέρισμα  Κορώνης",
+        "phone": "(+30)2723028308,(+30)2723028305,",
+        "fax": "(+30)2723023522",
+        "url": "http://www.pylos-nestor.gr/portal/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.9594138,
+          36.797088
+        ]
+      },
+      "id": "way/611127227"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/1249835429",
+        "amenity": "townhall",
+        "name": "Δήμος  Αργοστολίου",
+        "phone": "(+30)2671022933 / (+30)2671360104",
+        "fax": "(+30)2671022572",
+        "url": "http://www.kefallonia.gov.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.4883009,
+          38.1782236
+        ]
+      },
+      "id": "node/1249835429"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/1756127283",
+        "amenity": "townhall",
+        "name": "Δήμος  Πόρου",
+        "phone": "(+30)2298022250",
+        "fax": "(+30)2298025353",
+        "url": "http://www.poros.gr/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.4536361,
+          37.4984677
+        ]
+      },
+      "id": "node/1756127283"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/1865445505",
+        "amenity": "townhall",
+        "name": "Δήμος  Πηνείου",
+        "phone": "(+30)2623360700",
+        "fax": "(+30)2623032253",
+        "url": "http://www.dimospineiou.gov.gr/portal/page/portal/municipality/Home"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.208075,
+          37.861732
+        ]
+      },
+      "id": "node/1865445505"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/1927592772",
+        "amenity": "townhall",
+        "name": "Δήμος  Ερυμάνθου",
+        "phone": "(+30)2694360300",
+        "fax": "(+30)2694360331",
+        "url": "http://www.erymanthou.gov.gr/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.7796826,
+          38.1090268
+        ]
+      },
+      "id": "node/1927592772"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/1996468829",
+        "amenity": "townhall",
+        "name": "Δήμος  Δυτικής  Μάνης",
+        "phone": "(+30)2721073976 / (+30)2721027210 ",
+        "fax": "(+30)2721064100",
+        "url": "http://www.dimosdytikismanis.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.2007962,
+          36.9370315
+        ]
+      },
+      "id": "node/1996468829"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/2384661726",
+        "amenity": "townhall",
+        "name": "Δημοτικό  Διαμέρισμα  Μεθώνης",
+        "phone": "(+30)2723028308 / (+30)2723028305",
+        "fax": "(+30)2723023522",
+        "url": "http://www.pylos-nestor.gr/portal/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.7061474,
+          36.820216
+        ]
+      },
+      "id": "node/2384661726"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/2658371651",
+        "addr:city": "Λουτράκι",
+        "addr:postcode": 20300,
+        "addr:street": "Ιάσονος 1",
+        "amenity": "townhall",
+        "name": "Δήμος Λουτρακίου - Αγίων Θεοδώρων",
+        "phone": "(+30)2744069000",
+        "fax": "(+30)2744064858",
+        "url": "http://www.loutraki.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.9766785,
+          37.9753977
+        ]
+      },
+      "id": "node/2658371651"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/3034240959",
+        "addr:city": "Ύδρα",
+        "addr:housename": "Περίβολος Ιερού Ναού Κοιμήσεως της Θεοτόκου",
+        "addr:postcode": 18040,
+        "amenity": "townhall",
+        "name": "Δήμος  Ύδρας",
+        "source": "survey",
+        "phone": "(+30)2298320200 / (+30)2298052210",
+        "fax": "(+30)2298053482",
+        "url": "http://www.ydra.gov.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.465558,
+          37.3490901
+        ]
+      },
+      "id": "node/3034240959"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/3127244635",
+        "addr:city": "Πύλος",
+        "addr:postcode": 24001,
+        "amenity": "townhall",
+        "name:en": "City Hall",
+        "name": "Δήμος Πύλου - Νέστορος",
+        "phone": "(+30)2723028308 / (+30)2723028305",
+        "fax": "(+30)2723023522",
+        "url": "http://www.pylos-nestor.gr/portal/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.6952858,
+          36.9143157
+        ]
+      },
+      "id": "node/3127244635"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/3165725336",
+        "addr:city": "Λάμπεια",
+        "addr:postcode": 27063,
+        "amenity": "townhall",
+        "name": "Δήμος Αρχαίας Ολυμπίας",
+        "phone": "(+30)2624022549 / (+30)2624022250",
+        "fax": "(+30)2624023124",
+        "url": "http://www.arxaiaolympia.gov.gr/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.8065763,
+          37.8585275
+        ]
+      },
+      "id": "node/3165725336"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/3177021008",
+        "addr:city": "Kiato",
+        "addr:postcode": 20200,
+        "amenity": "townhall",
+        "name": "Δήμος  Σικυωνίων",
+        "website": "http://www.kiato.gov.gr/",
+        "wikidata": "Q3555045",
+        "wikipedia": "en:Kiato",
+        "phone": "(+30)2742020326",
+        "fax": "(+30)2742023562",
+        "url": "http://www.kiato.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.7494698,
+          38.0138798
+        ]
+      },
+      "id": "node/3177021008"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/3262995180",
+        "amenity": "townhall",
+        "name": "Δήμος  Άργους",
+        "phone": "(+30)2751360700",
+        "fax": "(+30)2751023560",
+        "url": "http://www.argos.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.7270402,
+          37.6339965
+        ]
+      },
+      "id": "node/3262995180"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/4793219398",
+        "amenity": "townhall",
+        "name": "Δήμος  Ερμιονίδας",
+        "phone": "(+30)2754021312",
+        "fax": "(+30)2754022000",
+        "url": "http://www.dimosermionidas.gr/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.2501271,
+          37.3836633
+        ]
+      },
+      "id": "node/4793219398"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/5145230327",
+        "addr:postcode": 23052,
+        "addr:street": "Σπάρτη - Μονεμβασιά",
+        "amenity": "townhall",
+        "internet_access": "wlan",
+        "name": "Δήμος  Μονεμβασιάς",
+        "name:en": "Municipality of Monemvasia Town Hall",
+        "opening_hours": "Mo-Fr 07:00-16:00",
+        "phone": "(+30)2732360512 / (+30)2732360526 ",
+        "website": "http://www.monemvasia.gov.gr",
+        "fax": "(+30)2732022206",
+        "url": "https://monemvasia.gov.gr/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.8620652,
+          36.803045
+        ]
+      },
+      "id": "node/5145230327"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "@id": "node/5834713541",
+        "amenity": "townhall",
+        "name": "Δήμος Ανδραβίδας - Κυλλήνης",
+        "phone": "(+30)2623029286 / (+30)26230723712",
+        "fax": "(+30)2623022260",
+        "url": "http://www.andravida-killini.gr/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.2637565,
+          37.9382302
+        ]
+      },
+      "id": "node/5834713541"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "amenity": "townhall",
+        "name": "Δήμος  Τρίπολης",
+        "phone": "(+30)2713600404 / (+30)2713600402",
+        "fax": "(+30)2710234673",
+        "url": " http://www.tripolis.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.37091064453125,
+          37.507547084964116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "amenity": "townhall",
+        "name": "Δήμος  Πατρέων",
+        "phone": "(+30)2613610380",
+        "fax": "(+30)2613610562",
+        "url": "http://www.patras.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.737823486328125,
+          38.23494411562881
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "amenity": "townhall",
+        "name": "Δήμος  Καλαβρύτων",
+        "phone": "(+30)2692022380 / (+30)2692022390",
+        "fax": "(+30)2692023330",
+        "url": "http://www.kalavrita.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.112045288085938,
+          38.03078569382294
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "amenity": "townhall",
+        "name": "Δήμος  Βόρειας  Κυνουρίας",
+        "phone": "(+30)2755360100",
+        "fax": "(+30)2755360169",
+        "url": "http://www.boriakinouria.gov.gr/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.72294521331787,
+          37.40484364051082
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "amenity": "townhall",
+        "name": "Δήμος  Νότιας  Κυνουρίας",
+        "phone": "(+30)2757360200",
+        "fax": "(+30)2757360214",
+        "url": "http://www.leonidio.gr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.86030650138855,
+          37.166857265844364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "amenity": "townhall",
+        "name": "Δήμος Ζακύνθου",
+        "phone": "(+30)2695026515",
+        "´fax": "(+30)2695048395",
+        "url": "http://www.zakynthos.gov.gr/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.900550484657288,
+          37.78838238130836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "amenity": "townhall",
+        "name": "Δήμος  Ιθάκης",
+        "phone": "(+30)2674032795 / (+30)2674023911",
+        "fax": "(+30)2674033387",
+        "url": "http://ithaki.gr/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.678372383117676,
+          38.42350370239434
+        ]
+      }
+    }
+  ]
+}
